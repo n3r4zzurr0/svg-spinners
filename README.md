@@ -2,7 +2,9 @@
 
 All spinners are displayed as 24 x 24 dp. The main content rests inside the live area of 22 dp with a padding of 1dp.
 
-[Browser Support](https://caniuse.com/#feat=svg-smil) | [React Library](https://github.com/dephraiim/react-svg-spinners)
+[Browser Support](https://caniuse.com/#feat=svg-smil)
+
+[React Component Library by dephraiim](https://github.com/dephraiim/react-svg-spinners) (adaptation)
 
 <br>
 
