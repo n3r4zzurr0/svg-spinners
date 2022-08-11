@@ -17,6 +17,8 @@ All spinners are displayed inside a 24 x 24 dp view box. The main content rests 
 
 [React Component Library by dephraiim](https://github.com/dephraiim/react-svg-spinners)
 
+<br />
+
 ## License
 
 MIT © [Utkarsh Verma](https://github.com/n3r4zzurr0)
